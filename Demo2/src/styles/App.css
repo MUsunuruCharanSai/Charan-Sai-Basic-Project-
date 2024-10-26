@@ -1,0 +1,24 @@
+.main{
+  border: 5px solid black;
+  border-radius: 15px;
+  padding: 30px;
+}
+.top{
+  padding-left: 400px;
+}
+.heading{
+  color: black;
+  font-size: large;
+}
+.textbox{
+  border: 2px solid black;
+  padding: 15px;
+}
+.btn{
+
+  border: 2px solid black;
+  padding: 4px;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+}
